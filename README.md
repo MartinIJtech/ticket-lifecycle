@@ -69,7 +69,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
 </p>
 <p>
-  Agent Jane fixes the issue and communicates back to agent John the issue is now resloved. good communication goes a long way between both workers and the customer.
+  Agent Jane fixes the issue and communicates back to agent John the issue is now resloved. Good communication goes a long way between both workers and the customer.
 </p>
 <p>
   <img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
@@ -79,7 +79,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Resolution</h3>
 <br />
 <p>
-  Once the issue is resolved, the agent john submits a final reply and marks the ticket as 'Resolved' or 'Closed'. The user may receive a notification or satisfaction surveySupport agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed.
+  Once the issue is resolved, the agent john submits a final reply and marks the ticket as 'Resolved' or 'Closed'. The user may receive a notification or satisfaction survey. Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed.
 </p>
 <p>
   <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
