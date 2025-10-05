@@ -63,7 +63,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Working the issue</h3>
 <br />
 <p>
-  System Administrator agent Jane Doe then logs in:
+  System Administrator agent Jane Doe is now the one handling the ticket so she logs in
 </p>
 <p>
   <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
