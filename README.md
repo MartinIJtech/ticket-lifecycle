@@ -32,8 +32,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3 align="center">Intake</h3>
 <br />
-<p>
-  User Ken creates a ticket:
+<p> 
+       The ticket intake stage is where a request is submitted to the system which can happen through the web portal, via email, or manually by an agent. The system creates a ticket ID that is unique and collects the users input on the issue type, subject, and department. So in this example the user named Ken creates a ticket
 </p>
 <p>
   <img src="https://i.imgur.com/ewueu9b.png: height="75%" width="100%" alt="Open a Ticket"/>
@@ -43,7 +43,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Ticket assignment</h3>
 <br />
 <p>
-  Support agent John Doe logs in.
+  Tickets are usually routed based on predetermined help topics or manually assigned to departments and agents.
 </p>
 <p>
   <img src="https://i.imgur.com/i3sa7FH.jpg" height="75%" width="100%" alt="Support agent login"/>
@@ -53,10 +53,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Communication</h3>
 <br />
 <p>
-  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
-</p>
-<p>
-  He makes sure to leave a proper message:
+  The start of communication begins with the end-user explaining the issue or clicking which category best fits the problem they are having. After this based on the company and the priority level an SLA (Service Level Agreement) timer may start counting down. Agent john Doe will be the one to work the ticket. Agent John sees the priority level of the ticket (Sev-A emergency ticket) and has to reassign ticket to a System Administrator.
 </p>
 <p>
   <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
@@ -66,16 +63,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Working the issue</h3>
 <br />
 <p>
-  System Administrator agent Jane Doe logs in:
+  System Administrator agent Jane Doe then logs in:
 </p>
 <p>
   <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
 </p>
 <p>
   Agent Jane works the issue and communicates back to agent John.
-</p>
-<p>
-  She also makes sure to switch the status of the issue from open to resolved:
 </p>
 <p>
   <img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
@@ -85,7 +79,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Resolution</h3>
 <br />
 <p>
-  Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
+  Once the issue is resolved, the agent john submits a final reply and marks the ticket as 'Resolved' or 'Closed'. The user may receive a notification or satisfaction surveySupport agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed.
 </p>
 <p>
   <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
