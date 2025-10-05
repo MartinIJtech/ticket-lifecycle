@@ -53,7 +53,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Communication</h3>
 <br />
 <p>
-  The start of communication begins with the end-user explaining the issue or clicking which category best fits the problem they are having. After this based on the company and the priority level an SLA (Service Level Agreement) timer may start counting down. Agent john Doe will be the one to work the ticket. Agent John sees the priority level of the ticket (Sev-A emergency ticket) and has to reassign ticket to a System Administrator.
+  The start of communication begins with the end-user explaining the issue or clicking which category best fits the problem they are having. After this based on the company and the priority level an SLA (Service Level Agreement) timer may start counting down. Agent John Doe is the one assigned to work the ticket but sees the priority level of the ticket (Sev-A emergency ticket) and has to reassign ticket to a System Administrator because it is above his access level.
 </p>
 <p>
   <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
@@ -69,7 +69,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
 </p>
 <p>
-  Agent Jane works the issue and communicates back to agent John.
+  Agent Jane fixes the issue and communicates back to agent John the issue is now resloved. good communication goes a long way between both workers and the customer.
 </p>
 <p>
   <img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
